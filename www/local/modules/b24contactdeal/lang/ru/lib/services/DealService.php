@@ -1,0 +1,3 @@
+<?php
+
+$MESS['B24CONTACTDEAL_B24_DEAL_TITLE'] = 'Сделка для #EMAIL#';
